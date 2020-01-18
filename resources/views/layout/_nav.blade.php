@@ -15,8 +15,8 @@
 
                     <div class="col-4 text-center">
                         <a class="navbar-brand" href="#">
-                            <img class="logo-dark pt-3" src="{{asset('images/logo.jpeg')}}" alt="logo">
-                            <img class="logo-light pt-3" src="{{asset('images/logo.jpeg')}}" alt="logo">
+                            <img class="logo-dark pt-3 w-175" src="{{asset('images/logo.jpeg')}}" alt="logo">
+                            <img class="logo-light w-175 pt-3" src="{{asset('images/logo.jpeg')}}" alt="logo">
                         </a>
                     </div>
 
@@ -36,7 +36,7 @@
 
     <hr class="my-0 w-100 bg-gray " >
 
-    <div class="container" >
+    <div class="container py-2 bg-dark" >
 
         <div class="navbar-left">
             <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon"></span></button>
@@ -46,12 +46,12 @@
             </a>
         </div>
 
-        <section class="navbar-mobile">
-            <div class="nav nav-navbar mx-auto">
-                <a class="nav-link active" href="/">Home</a>
-                <a class="nav-link" href="#about">About</a>
-                <a class="nav-link" href="#">Event</a>
-                <a class="nav-link" href="#">Contact</a>
+        <section class="navbar-mobile navbar-light  bg-dark">
+            <div class="nav nav-navbar mx-auto ">
+                <a class="nav-link  text-light " href="/">Home</a>
+                <a class="nav-link text-light" href="#about">About</a>
+                <a class="nav-link text-light" href="#">Event</a>
+                <a class="nav-link text-light" href="#">Contact</a>
             </div>
 
            

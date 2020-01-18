@@ -11,10 +11,10 @@
 @section('content')
 
 <main class="main-content">
-    <section class="section  mt-4 pb-0 ">
+    <section class="section  mt-5 pb-0 ">
         <div class="rounded ">
             <div class="slider-arrows-flash-light " data-provide="slider" data-arrows="true">
-                <div><img src="{{asset('images/bg1.jpg')}}" class="img-fluid" style="width:100%">
+                <div><img src="{{asset('images/bg1.jpg')}}" class=" bg-img " style="width:100%">
 
                 </div>
 
@@ -26,8 +26,8 @@
             <div class="row align-items-center h-100">
 
                 <div class="col-md-12 ">
-                    <h1 class="text-primary display-1 "><span class="text-secondary fw-700 ">|</span> About us</h1>
-                    <p class="lead-4 fw-400">Our company was founded in 2013 with a mission to create pretty templates
+                    <h1 class="text-primary display-1  "><span class="text-secondary fw-700 ">|</span> About us</h1>
+                    <p class="lead-4  fw-400">Our company was founded in 2013 with a mission to create pretty templates
                         for great startups. We can combine beautiful, modern designs with clean, functional and
                         high-performance code to produce stunning websites. And best of all, we are super passionate
                         about our work. Thought does cognitive into follow and rationale annoyed.</p>
@@ -89,7 +89,7 @@
                         <a href="/expertise">
                             <div class="row">
                                 <div class="col-lg-8 col-8 mt-6  pl-0 ">
-                                    <h3> Scheduled</h3>
+                                    <h3> Schedule</h3>
                                 </div>
                                 <div class="col-lg-4 col-4 text-right "><i
                                         class="fa fa-arrow-right display-4 fs-20 text-right text-dark mt-7"></i></div>
