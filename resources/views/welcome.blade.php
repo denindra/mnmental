@@ -100,7 +100,7 @@
                 <div class="col-lg-2"></div>
                 <div class="col-lg-5 ">
 
-                    <div class="col-lg-12 pb-4" style="border-bottom:3px solid #000;">
+                    <div class="col-lg-12 pb-4 pl-0 pr-0" style="border-bottom:3px solid #000;">
                         <a href="/clients" class="nav-link">
                             <div class="row">
                                 <div class="col-lg-8 col-8 mt-6 pl-0 ">
