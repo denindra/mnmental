@@ -30,8 +30,9 @@
                     <div class="col-3 text-center">
                         <nav class="nav nav-navbar justify-content-end">
                           
-                            <a class="nav-link text-primary fs-19" href="#" data-toggle="offcanvas" data-target="#offcanvas-search"><i
+                            <a class="nav-link text-primary fs-19" data-toggle="offcanvas" data-target="#offcanvas-top"><i
                                     class="fa fa-search"></i></a>
+                                   
                         </nav>
                     </div>
                 </div>
@@ -56,9 +57,9 @@
         <section class="navbar-mobile navbar-light  bg-dark">
             <div class="nav nav-navbar mx-auto ">
                 <a class="nav-link  text-light fs-19 " href="/">Home</a>
-                <a class="nav-link text-light fs-19" href="#about">About</a>
+                <a class="nav-link text-light fs-19" href="#about">SHOP</a>
                 <a class="nav-link text-light fs-19" href="#">Event</a>
-                <a class="nav-link text-light fs-19" href="#">Contact</a>
+                <a class="nav-link text-light fs-19" href="#">ART</a>
             </div>
 
            
