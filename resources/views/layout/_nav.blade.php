@@ -58,7 +58,7 @@
             <div class="nav nav-navbar mx-auto ">
                 <a class="nav-link  text-light fs-19 " href="/">Home</a>
                 <a class="nav-link text-light fs-19" href="#about">SHOP</a>
-                <a class="nav-link text-light fs-19" href="#">Event</a>
+                <a class="nav-link text-light fs-19" href="#">EVENT</a>
                 <a class="nav-link text-light fs-19" href="#">ART</a>
             </div>
 
