@@ -22,26 +22,25 @@
     </section>
 
     <section class=" bg-dark section mt-6 pb-0    d-block d-sm-none">
-        <div data-provide="slider" data-autoplay="false"
-            data-pause-on-hover="false">
-            <div class="p-1">
+        <div data-provide="slider" data-autoplay="false" data-pause-on-hover="false">
+            <div>
                 <div class="py-10  "
                     style="background-image: url({{asset('images/bg1.jpg')}});background-position:center;background-size:cover;">
-                    <h1 class="text-center text-white ls-3">11:11 11/11/11<br/>EXITING TIMES AHEAD</h1>
+                    <h1 class="text-center text-white ls-3">11:11 11/11/11<br />EXITING TIMES AHEAD</h1>
                 </div>
             </div>
 
         </div>
     </section>
-    
+
     <section class=" section  pb-0 bg-dark text-light" id="about">
-        <div class="container px-lg-12 ls-2   ">
+        <div class="container px-lg-8 ls-2   ">
             <div class="row align-items-center h-100">
 
                 <div class="col-md-12 ">
-                    <h1 class="text-primary display-3 ls-4  "><span class="text-secondary fw-700 ">|</span> About us
+                    <h1 class="text-primary  display-3 ls-4  "><span class="text-secondary fw-700 ">|</span> About us
                     </h1>
-                    <p class="lead-3  fw-400">Our company was founded in 2013 with a mission to create pretty templates
+                    <p class="lead-3  fw-400   lh-7">Our company was founded in 2013 with a mission to create pretty templates
                         for great startups. We can combine beautiful, modern designs with clean, functional and
                         high-performance code to produce stunning websites. And best of all, we are super passionate
                         about our work. Thought does cognitive into follow and rationale annoyed.</p>
@@ -129,6 +128,9 @@
                 </div>
             </div>
         </div>
+    </section>
+    <section>
+
     </section>
 </main>
 @endsection
