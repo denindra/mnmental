@@ -26,8 +26,8 @@
             <div class="row align-items-center h-100">
 
                 <div class="col-md-12 ">
-                    <h1 class="text-primary display-1  "><span class="text-secondary fw-700 ">|</span> About us</h1>
-                    <p class="lead-4  fw-400">Our company was founded in 2013 with a mission to create pretty templates
+                    <h1 class="text-primary display-3  "><span class="text-secondary fw-700 ">|</span> About us</h1>
+                    <p class="lead-3  fw-400">Our company was founded in 2013 with a mission to create pretty templates
                         for great startups. We can combine beautiful, modern designs with clean, functional and
                         high-performance code to produce stunning websites. And best of all, we are super passionate
                         about our work. Thought does cognitive into follow and rationale annoyed.</p>
