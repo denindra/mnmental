@@ -5,20 +5,23 @@
         <div class="row">
             <div class="container ">
                 <div class="row">
-                    
+
                     <div class="col-3  ">
                         <div class="nav nav-navbar  ">
                             <a class="nav-link fs-19 d-block d-sm-none
-                            " href="#radiosection"> <span class="text-primary"><i class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
-                          <a class="nav-link fs-19  d-none d-lg-block" href="#radiosection"> <span class="text-primary  ">Selecta</span> <span class="text-primary"><i class=" fa fa-volume-up fs-19 fs-400"></i></span></a>  
+                            " href="#radiosection"> <span class="text-primary"><i
+                                        class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
+                            <a class="nav-link fs-19  d-none d-lg-block" href="#radiosection"> <span
+                                    class="text-primary  ">Selecta</span> <span class="text-primary"><i
+                                        class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
                         </div>
-                       
-                       
+
+
                     </div>
 
-                    
-                   
-                  
+
+
+
 
                     <div class="col-6 text-center mx-auto">
                         <a class="navbar-brand" href="#">
@@ -29,22 +32,22 @@
 
                     <div class="col-3 text-center">
                         <nav class="nav nav-navbar justify-content-end">
-                          
-                            <a class="nav-link text-primary fs-19" data-toggle="offcanvas" data-target="#offcanvas-top"><i
-                                    class="fa fa-search"></i></a>
-                                   
+
+                            <a class="nav-link text-primary fs-19" data-toggle="offcanvas"
+                                data-target="#offcanvas-top"><i class="fa fa-search"></i></a>
+
                         </nav>
                     </div>
                 </div>
-                </div>
             </div>
         </div>
-    
+    </div>
 
 
-    <hr class="my-0 w-100 bg-gray " >
 
-    <div class="container py-3 bg-dark" >
+    <hr class="my-0 w-100 bg-gray ">
+
+    <div class="container py-3 bg-dark">
 
         <div class="navbar-left">
             <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon"></span></button>
@@ -62,7 +65,7 @@
                 <a class="nav-link text-light fs-19" href="#">ART</a>
             </div>
 
-           
+
         </section>
 
     </div>

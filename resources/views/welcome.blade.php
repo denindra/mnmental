@@ -25,8 +25,9 @@
         <div data-provide="slider" data-autoplay="false"
             data-pause-on-hover="false">
             <div class="p-1">
-                <div class=" bg-img h-400"
-                    style="background-image: url({{asset('images/bg1.jpg')}})">
+                <div class="py-10  "
+                    style="background-image: url({{asset('images/bg1.jpg')}});background-position:center;background-size:cover;">
+                    <h1 class="text-center text-white ls-3">11:11 11/11/11<br/>EXITING TIMES AHEAD</h1>
                 </div>
             </div>
 

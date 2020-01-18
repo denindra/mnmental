@@ -27477,7 +27477,7 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
 
 .navbar-open .navbar-mobile {
   left: 0 !important;
-  box-shadow: 2px 0 9px rgba(0, 0, 0, 0.05);
+  box-shadow: 2px 0 9px rgba(0, 0, 0, 0.2);
 }
 
 @media (max-width: 575.98px) {
