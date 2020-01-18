@@ -6,17 +6,24 @@
             <div class="container ">
                 <div class="row">
                     
-                    <div class="col-4">
-                        <div class="nav nav-navbar">
-                            <a class="nav-link fs-19 " href="#radiosection"> <span class="text-primary">Radio</span> <span class="text-primary"><i class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
-                            
+                    <div class="col-3  ">
+                        <div class="nav nav-navbar  ">
+                            <a class="nav-link fs-19 d-block d-sm-none
+                            " href="#radiosection"> <span class="text-primary"><i class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
+                          <a class="nav-link fs-19  d-none d-lg-block" href="#radiosection"> <span class="text-primary  ">Selecta</span> <span class="text-primary"><i class=" fa fa-volume-up fs-19 fs-400"></i></span></a>  
                         </div>
+                       
+                       
                     </div>
 
-                    <div class="col-5 text-center">
+                    
+                   
+                  
+
+                    <div class="col-6 text-center mx-auto">
                         <a class="navbar-brand" href="#">
                             <img class="logo-dark pt-3 " src="{{asset('images/logo.jpeg')}}" alt="logo">
-                            <img class="logo-light " src="{{asset('images/logo.jpeg')}}" alt="logo">
+                            <img class="logo-light  " src="{{asset('images/logo.jpeg')}}" alt="logo">
                         </a>
                     </div>
 

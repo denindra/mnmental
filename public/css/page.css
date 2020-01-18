@@ -27407,7 +27407,7 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
 }
 
 .backdrop-navbar {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.6);
   z-index: 1001;
 }
 

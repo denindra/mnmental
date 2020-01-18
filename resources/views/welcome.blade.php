@@ -22,11 +22,11 @@
         </div>
     </section>
     <section class=" section pb-0 bg-dark text-light" id="about">
-        <div class="container px-lg-8   ">
+        <div class="container px-lg-12 ls-2   ">
             <div class="row align-items-center h-100">
 
                 <div class="col-md-12 ">
-                    <h1 class="text-primary display-3  "><span class="text-secondary fw-700 ">|</span> About us</h1>
+                    <h1 class="text-primary display-3 ls-4  "><span class="text-secondary fw-700 ">|</span> About us</h1>
                     <p class="lead-3  fw-400">Our company was founded in 2013 with a mission to create pretty templates
                         for great startups. We can combine beautiful, modern designs with clean, functional and
                         high-performance code to produce stunning websites. And best of all, we are super passionate
@@ -38,8 +38,8 @@
     </section>
 
     <section class=" bg-dark section pb-3">
-        <div data-provide="slider" data-autoplay="true" data-slides-to-show="3" data-css-ease="linear"
-            data-speed="25000" data-autoplay-speed="0" data-pause-on-hover="true">
+        <div data-provide="slider" data-autoplay="true" data-slides-to-show="2" data-css-ease="linear"
+            data-speed="12000" data-autoplay-speed="0" data-pause-on-hover="false">
             <div class="p-2">
                 <div class="rounded bg-img h-400"
                     style="background-image: url(https://d2jv9003bew7ag.cloudfront.net/uploads/Andy-Warhol-with-a-Polaroid-Camera.jpg)">
@@ -68,7 +68,7 @@
         <div class="container px-lg-8">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="text-primary display-1 "><span class="text-secondary fw-700 ">|</span>Radio</h1>
+                    <h1 class="text-primary display-3  ls-4  "><span class="text-secondary fw-700   ">|</span>Selecta</h1>
                 </div>
             </div>
             <div class="row">
