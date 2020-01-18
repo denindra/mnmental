@@ -43,7 +43,7 @@
 
     <hr class="my-0 w-100 bg-gray " >
 
-    <div class="container py-2 bg-dark" >
+    <div class="container py-3 bg-dark" >
 
         <div class="navbar-left">
             <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon"></span></button>

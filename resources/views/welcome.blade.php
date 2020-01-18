@@ -11,22 +11,35 @@
 @section('content')
 
 <main class="main-content">
-    <section class="section  mt-5 pb-0 ">
+    <section class="section  mt-5 pb-0  d-none d-lg-block">
         <div class="rounded ">
             <div class="slider-arrows-flash-light " data-provide="slider" data-arrows="true">
                 <div><img src="{{asset('images/bg1.jpg')}}" class=" bg-img " style="width:100%">
-
                 </div>
 
             </div>
         </div>
     </section>
-    <section class=" section pb-0 bg-dark text-light" id="about">
+
+    <section class=" bg-dark section mt-6 pb-0    d-block d-sm-none">
+        <div data-provide="slider" data-autoplay="false"
+            data-pause-on-hover="false">
+            <div class="p-1">
+                <div class=" bg-img h-400"
+                    style="background-image: url({{asset('images/bg1.jpg')}})">
+                </div>
+            </div>
+
+        </div>
+    </section>
+    
+    <section class=" section  pb-0 bg-dark text-light" id="about">
         <div class="container px-lg-12 ls-2   ">
             <div class="row align-items-center h-100">
 
                 <div class="col-md-12 ">
-                    <h1 class="text-primary display-3 ls-4  "><span class="text-secondary fw-700 ">|</span> About us</h1>
+                    <h1 class="text-primary display-3 ls-4  "><span class="text-secondary fw-700 ">|</span> About us
+                    </h1>
                     <p class="lead-3  fw-400">Our company was founded in 2013 with a mission to create pretty templates
                         for great startups. We can combine beautiful, modern designs with clean, functional and
                         high-performance code to produce stunning websites. And best of all, we are super passionate
@@ -68,7 +81,8 @@
         <div class="container px-lg-8">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="text-primary display-3  ls-4  "><span class="text-secondary fw-700   ">|</span>Selecta</h1>
+                    <h1 class="text-primary display-3  ls-4  "><span class="text-secondary fw-700   ">|</span>Selecta
+                    </h1>
                 </div>
             </div>
             <div class="row">
