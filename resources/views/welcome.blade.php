@@ -35,7 +35,7 @@
 
     <section class=" section  pb-0 bg-dark text-light" id="about">
         <div class="container px-lg-8 ls-2   ">
-            <div class="row align-items-center h-100">
+            <div class="row align-items-center ">
 
                 <div class="col-md-12 ">
                     <h1 class="text-primary  display-3 ls-4  "><span class="text-secondary fw-700 ">|</span> About us
