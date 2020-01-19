@@ -24,7 +24,7 @@
     <section class=" bg-dark section mt-6 pb-0    d-block d-sm-none">
         <div data-provide="slider" data-autoplay="false" data-pause-on-hover="false">
             <div>
-                <div class="py-10  "
+                <div class="pb-10 pt-11  "
                     style="background-image: url({{asset('images/bg1.jpg')}});background-position:center;background-size:cover;">
                     <h1 class="text-center text-white ls-3">EXITING TIMES AHEAD</h1>
                 </div>
