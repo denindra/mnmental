@@ -52,8 +52,9 @@
     </section>
 
     <section class=" bg-dark section pb-3">
-        <div data-provide="slider" data-autoplay="true" data-slides-to-show="3" data-css-ease="linear"
-            data-speed="5000" data-autoplay-speed="0" data-pause-on-hover="false">
+        <div data-provide="slider" data-autoplay="true" data-slides-to-show="2" data-css-ease="linear"
+            data-speed="12000" data-autoplay-speed="0" data-pause-on-hover="false">
+
             <div class="p-2">
                 <div class="rounded bg-img h-400"
                     style="background-image: url(https://d2jv9003bew7ag.cloudfront.net/uploads/Andy-Warhol-with-a-Polaroid-Camera.jpg)">
@@ -71,21 +72,7 @@
                 </div>
             </div>
 
-            <div class="p-2">
-                <div class="rounded bg-img h-400"
-                    style="background-image: url(https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg)">
-                </div>
-            </div>
-            <div class="p-2">
-                <div class="rounded bg-img h-400"
-                    style="background-image: url(https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg)">
-                </div>
-            </div>
-            <div class="p-2">
-                <div class="rounded bg-img h-400"
-                    style="background-image: url(https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg)">
-                </div>
-            </div>
+           
         </div>
     </section>
     <section class="bg-dark section pb-12" id="radiosection">
