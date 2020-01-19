@@ -105,13 +105,20 @@
             </div>
         </div>
     </section>
-    <section class="section text-white bg-fixed text-center py-11" data-overlay="6"
+    <section class="section text-white bg-fixed text-center py-8   d-block d-sm-none" data-overlay="6"
         style="background-image: url(https://kinfolk.com/wp-content/uploads/2019/08/revisedlambertetfils_KinfolkDigitalFall2019-01final-3840-2000x1250.jpg)"
         data-overlay="3">
         <div class="container">
-            <h2 class="display-1 ls-4"><strong>11:11&nbsp;&nbsp;&nbsp;11/11/11</strong></h2>
+            <h2 class="display-4 ls-4"><strong>11:11&nbsp;&nbsp;&nbsp;11/11/11</strong></h2>
         </div>
     </section>
+    <section class="section text-white bg-fixed text-center py-10    d-none d-lg-block" data-overlay="6"
+    style="background-image: url(https://kinfolk.com/wp-content/uploads/2019/08/revisedlambertetfils_KinfolkDigitalFall2019-01final-3840-2000x1250.jpg)"
+    data-overlay="3">
+    <div class="container">
+        <h2 class="display-1 ls-4"><strong>11:11&nbsp;&nbsp;&nbsp;11/11/11</strong></h2>
+    </div>
+</section>
     <section class="bg-gray section pb-3" >
         <div class="container-fluid px-lg-8" >
             <div class="row">
