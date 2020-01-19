@@ -12,7 +12,7 @@
                             " href="#radiosection"> <span class="text-primary"><i
                                         class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
                             <a class="nav-link fs-19  d-none d-lg-block" href="#radiosection"> <span
-                                    class="text-primary  ">Selecta</span> <span class="text-primary"><i
+                                    class="text-light  ">Selecta</span> <span class="text-primary"><i
                                         class=" fa fa-volume-up fs-19 fs-400"></i></span></a>
                         </div>
 
@@ -50,7 +50,7 @@
     <div class="container py-3 bg-dark">
 
         <div class="navbar-left">
-            <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon "></span></button>
+            <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon text"></span></button>
             <a class="navbar-brand d-none d-stick-block mr-4" href="#">
                 <img class="logo-dark pt-3" src="{{asset('images/logo.jpeg')}}" alt="logo">
                 <img class="logo-light pt-3" src="{{asset('images/logo.jpeg')}}" alt="logo">

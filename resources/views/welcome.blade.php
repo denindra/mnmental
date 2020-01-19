@@ -38,7 +38,7 @@
             <div class="row align-items-center ">
 
                 <div class="col-md-12 ">
-                    <h1 class="text-primary  display-3 ls-4  "><span class=" text-white fw-700 ">|</span> About us
+                    <h1 class="text-light  display-3 ls-4  "> About us
                     </h1>
                     <p class="lead-3  fw-400   lh-7">Our company was founded in 2013 with a mission to create pretty
                         templates
@@ -52,8 +52,8 @@
     </section>
 
     <section class=" bg-dark section pb-3">
-        <div data-provide="slider" data-autoplay="true" data-slides-to-show="2" data-css-ease="linear"
-            data-speed="12000" data-autoplay-speed="0" data-pause-on-hover="false">
+        <div data-provide="slider" data-autoplay="true" data-slides-to-show="3" data-css-ease="linear"
+            data-speed="5000" data-autoplay-speed="0" data-pause-on-hover="false">
             <div class="p-2">
                 <div class="rounded bg-img h-400"
                     style="background-image: url(https://d2jv9003bew7ag.cloudfront.net/uploads/Andy-Warhol-with-a-Polaroid-Camera.jpg)">
@@ -76,19 +76,29 @@
                     style="background-image: url(https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg)">
                 </div>
             </div>
+            <div class="p-2">
+                <div class="rounded bg-img h-400"
+                    style="background-image: url(https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg)">
+                </div>
+            </div>
+            <div class="p-2">
+                <div class="rounded bg-img h-400"
+                    style="background-image: url(https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg)">
+                </div>
+            </div>
         </div>
     </section>
     <section class="bg-dark section pb-12" id="radiosection">
         <div class="container px-lg-8">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="text-primary display-3  ls-4  "><span class="text-white fw-700   ">|</span>Selecta
+                    <h1 class="text-light display-3  ls-4  ">Selecta
                     </h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <iframe src="https://open.spotify.com/embed/playlist/3pTNyV6vsyS6YPSp8hIUWq"
+                    <iframe  src="https://open.spotify.com/embed/playlist/3pTNyV6vsyS6YPSp8hIUWq"
                         style="width:100%;height:400px" frameborder="0" allowtransparency="true"
                         allow="encrypted-media"></iframe>
                 </div>
@@ -102,8 +112,14 @@
             <h2 class="display-1 ls-4"><strong>11:11&nbsp;&nbsp;&nbsp;11/11/11</strong></h2>
         </div>
     </section>
-    <section class="bg-gray section">
-        <div class="container-fluid px-lg-5">
+    <section class="bg-gray section pb-3" >
+        <div class="container-fluid px-lg-8" >
+            <div class="row">
+                <div class="col-lg-12" >
+                    <h1 class="text-light display-3 ls-4  "> Article
+                    </h1>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-lg-6 mt-5">
 
@@ -130,7 +146,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-6 mt-5" style="height:1090px;overflow-y:scroll">
+                <div class="col-lg-6 mt-5" style="height:1000px;overflow-y:scroll">
                     <div class="row">
                         <div class="col-lg-4 col-6">
                             <div class=" d-block   mb-6">
@@ -141,7 +157,7 @@
                                     <p class="mb-0 "><a class="small-5  text-uppercase ls-2 fw-400 text-primary"
                                             href="#">News</a></p>
                                     <p><a class="text-lighter  ls-2 fw-600" href="#">Jakarta Festival</a></p>
-                                    <p class="mb-0 fw-100 lh-3" style="line-spacing:0.5px"><a class="text-light"
+                                    <p class="mb-0 fw-100 fs-400 lh-3" style="line-spacing:0.5px"><a class="text-light"
                                             style="line-spacing:10px" href="#">We relocated our office to a new designed
                                             garage</a></p>
                                 </div>
@@ -365,6 +381,25 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section bg-gray pt-8 ">
+        <div class="container-fluid px-lg-8 ">
+            <div class="row">
+                <div class="col-lg-12 " >
+                    <div class="col-lg-12" style="border-top:1px solid #000"></div>
+                    <div class="col-lg-12 mt-8 p-0">
+                        <h1 class="text-light display-3 ls-4  "> Session 1
+                    </div>
+                    <div class="video-wrapper mt-2 ratio-16x9">
+                        
+                        <div class="poster" style="background-image: url(https://kinfolk.com/wp-content/uploads/2019/11/cover_art-1024x569.jpg)"></div>
+                        <button class="btn btn-circle btn-lg btn-primary"><i class="fa fa-play"></i></button>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/M5S_JBRjd1s?rel=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      </div>
+        
                 </div>
             </div>
         </div>
