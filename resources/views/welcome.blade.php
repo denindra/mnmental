@@ -380,9 +380,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-12 mt-4">
+                        <div class="col-lg-12  mt-4">
                             <div class="row">
-                                <div class="col-lg-4 col-4 mx-auto">
+                                <div class="col-lg-4 col-8 mx-auto text-center">
                                     <button class="btn btn-round btn-outline-secondary text-light">View More</button>
                                 </div>
                             </div>
