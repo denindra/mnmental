@@ -1,20 +1,20 @@
  <!-- Footer -->
- <footer class="footer bg-gray pt-7">
+ <footer class="footer bg-dark pt-7">
     <div class="container">
       <div class="row gap-y align-items-center">
 
         <div class="col-md-3 text-center text-md-left">
-         <h1 class="text-light" style="line-height:2.9rem">EXITING TIMES AHEAD</h1>
+         <h1 class="text-light display-5" style="line-height:3.3rem">EXITING TIMES AHEAD</h1>
         </div>
 
         <div class="col-md-9">
           <div class="nav nav-bold nav-uppercase justify-content-center nav-light justify-content-md-end">
-            <a class="nav-link" href="#">About</a>
-            <a class="nav-link" href="#">Help</a>
-            <a class="nav-link" href="#">Blog</a>
-            <a class="nav-link" href="#">Policy</a>
-            <a class="nav-link" href="#">Terms</a>
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link text-light" href="#">About</a>
+            <a class="nav-link text-light" href="#">Help</a>
+            <a class="nav-link text-light" href="#">Blog</a>
+            <a class="nav-link text-light" href="#">Policy</a>
+            <a class="nav-link text-light" href="#">Terms</a>
+            <a class="nav-link text-light" href="#">Contact</a>
           </div>
         </div>
 
@@ -23,7 +23,7 @@
         </div>
 
         <div class="col-md-4 text-center text-md-left text-light">
-          <small>© 2020 MNMENTAL &nbsp;|&nbsp;All rights reserved.</small>
+          <small>© 2020 MNMENTAL &nbsp;| &nbsp;All rights reserved.</small>
         </div>
 
         <div class="col-md-8 text-center text-md-right ">
